@@ -1,0 +1,7 @@
+C:\Users\Gary\Documents\Presentations\DDDEA\DataScienceForFunAndProfit\DataScienceForFunAndProfit.Tests\bin\Debug\DataScienceForFunAndProfit.Tests.dll
+C:\Users\Gary\Documents\Presentations\DDDEA\DataScienceForFunAndProfit\DataScienceForFunAndProfit.Tests\bin\Debug\DataScienceForFunAndProfit.Tests.pdb
+C:\Users\Gary\Documents\Presentations\DDDEA\DataScienceForFunAndProfit\DataScienceForFunAndProfit.Tests\bin\Debug\DataScienceForFunAndProfit.dll
+C:\Users\Gary\Documents\Presentations\DDDEA\DataScienceForFunAndProfit\DataScienceForFunAndProfit.Tests\bin\Debug\DataScienceForFunAndProfit.pdb
+C:\Users\Gary\Documents\Presentations\DDDEA\DataScienceForFunAndProfit\DataScienceForFunAndProfit.Tests\obj\Debug\DataScienceForFunAndProfit.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\Presentations\DDDEA\DataScienceForFunAndProfit\DataScienceForFunAndProfit.Tests\obj\Debug\DataScienceForFunAndProfit.Tests.dll
+C:\Users\Gary\Documents\Presentations\DDDEA\DataScienceForFunAndProfit\DataScienceForFunAndProfit.Tests\obj\Debug\DataScienceForFunAndProfit.Tests.pdb
